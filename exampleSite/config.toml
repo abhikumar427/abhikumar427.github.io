@@ -1,6 +1,6 @@
 baseURL                     = "https://example.org/"            # Your domain name. Must end with "/"
 languageCode                = "en-us"                           # languageCode
-title                       = "Introduction"                    # Site title
+title                       = "Abhishek Kumar"                    # Site title
 theme                       = "introduction"
 pygmentsStyle               = "monokai"                         # https://help.farbox.com/pygments.html
 pygmentsCodefences          = true
